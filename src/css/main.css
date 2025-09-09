@@ -3,6 +3,7 @@ body {
   font-family: "Times New Roman", Times, serif;
   margin: 20px;
   background-color: rgb(94, 89, 89);
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
